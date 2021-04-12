@@ -4,24 +4,12 @@
   list-style: none;
 }
 
-nav {
-  /* display: flex;
-  flex-direction: row; */
-  /* padding: 10px; */
-}
-
 a {
   color: black;
 }
 
-nav ul {
-  /* display: flex; */
-}
-
 /* Main Section styles */
 .main {
-  /* display: grid;
-  grid-template-columns: 1fr 1fr; */
   background-image: url(./bg.png);
   background-size: cover;
   padding: 2rem;
