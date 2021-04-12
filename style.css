@@ -9,6 +9,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
   background-image: url(bg.png);
+  background-repeat: no-repeat;
   background-size: cover;
   padding: 3rem;
 }
