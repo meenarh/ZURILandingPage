@@ -16,4 +16,4 @@ https://www.figma.com/file/XBzKuERv1VBRDUwr5L8KFp/Landing-page?node-id=0%3A1
 
 This Web App is Currently hosted on Github and can be found here:
 
-https://womoemy.github.io/TMDareDevil-Task5-LandingPage/
+https://meenarh.github.io/ZURILandingPage/
