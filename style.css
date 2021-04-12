@@ -1,19 +1,21 @@
 * {
-  max-width: 100vw;
   font: "Lato", sans-serif;
-  margin: auto;
   box-sizing: border-box;
   list-style: none;
 }
 
 nav {
-  display: flex;
-  flex-direction: row;
-  padding: 10px;
+  /* display: flex;
+  flex-direction: row; */
+  /* padding: 10px; */
+}
+
+a {
+  color: black;
 }
 
 nav ul {
-  display: flex;
+  /* display: flex; */
 }
 
 /* Main Section styles */
@@ -61,4 +63,9 @@ label {
 
 .form button .button {
   margin-top: 1rem !important;
+}
+
+.Zuri {
+  padding-top: 2rem;
+  min-height: 20rem;
 }
