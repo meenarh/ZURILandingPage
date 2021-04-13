@@ -28,7 +28,7 @@
     max-width: 30rem;
 }
   
- .form p {
+  .form p {
     text-align: center;
     font-weight: bold;
   }
@@ -47,6 +47,7 @@ input, select {
 label {
     margin-top: 1rem;
   }
+  
   .form button .button {
     margin-top: 1rem !important;
   }
